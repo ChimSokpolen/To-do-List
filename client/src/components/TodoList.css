@@ -1,0 +1,11 @@
+.bgcolor{
+    background-color: rgba(153, 255, 0, 0.021);
+    
+    align-items: center;
+    margin-left: 590px;
+    width: 50%;
+    height: 100vh;
+}
+.input-field{
+    display: flex;
+}
